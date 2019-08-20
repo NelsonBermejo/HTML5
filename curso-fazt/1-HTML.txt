@@ -1,0 +1,54 @@
+https://www.youtube.com/watch?v=rbuYtrNUxg4&t=258s
+
+desarrollo web HTML
+
+what is html? HYPER TEXT(paginas referenciadas ejemplo de facebook) MARKUP LANGUAGE //LENGUAJE DE MARCDO DE HIPERTEXXTO//Standard //esta organizado por W3C(World widw web consortium)
+
+
+
+archivo de paginas web = .html
+en que version estamos escribiendo, desde que surgio la web hay 4 versiones , en este caso utilizaremos la ultima que es HTML5 <!DOCTYPE html>
+
+Dentro de html hay gerarquias
+por ejemplo el titulo de  estiqueta se lo conoce como header
+el titulo del texto se lo conoce como body
+
+IMPORTANTE
+El atributo de las etiquetas: permiten dar propiedades a etiquetas especificas de html
+<html lang="es">//lenguaje en español
+
+<meta name="description" content="Esta es mi primer Pagina Web" />//Sirve para que encuentren nuestro sitio web con mas facilidad, porque le estamos dando mas informacion
+<meta name="author" content="Nelson" />
+<meta name="Keywords" content="Mi primer titulo, mi primer pagina, pagina web">//palabras claves que vana a encontrar en tu sitio
+			                "blog, blog de cocina, blog de paginas web"//se escrinirian aqui, para que cuando busquen esas palabras en el 				buscador puedan encontrarlas, mas informacion mas posicionamiento en los buscadores y tu pagina sera mas facil 				de acceder
+TIPO DE CODIFICACION
+ <meta charset="utf-8">//tipo de codificacion que es mas que solo colocar letras en nuestras paginas, emoticones, simbolos
+
+SECCION PRINCIPAL
+<li> Item de la lista, estas pueden ser ordenadas o desordenadas
+<section>//es donde voy a encintrar la seccion principal tal como los articulos <article>
+<p>Lorem30</p>//me permite agregar parrafo de prueba sin tener que escribirlo
+
+SEGUNDA SECCION EJ :ARCHIVOS DEL BLOG//HACE REFERENCIA AL CONTENIDO PRINCIPAL
+
+<aside>//CONTENIDO RELACIONADO PERO QUE NO ES TAN IMPORTANTE//CONTENIDO LATERAL
+
+las etiquetas describen el contenido no como lucen para eso utilizamos css
+
+<footer>//PIE DE PAGINA
+
+
+ACLARAR GERARQUIA
+<hgroup>//dentro de ellas van h1,h2... para distinguirla del titulo principal
+
+COMENTARIOS DENTRO DEL ARTICULO
+es como una especie de pie de pagina de mi articulo
+<footer>
+
+UTILIZAR CITAS
+  <blockquote cite="http://facebook.com/faztweb">
+
+CREAR ENLACES
+ETIQUETA <a>
+ATRIBUTO href
+ <a href="https://www.youtube.com/watch?v=rbuYtrNUxg4&t=258s">Visita mi Sitio Web</a>//ESTO ES UN HIPER ENLACE
